@@ -74,3 +74,8 @@
 
     網頁執行: http://localhost:8080/
     ![Eclipse Spring Boot 修改預設配置後網頁開啟的結果](doc/%E7%B6%B2%E9%A0%81%E9%96%8B%E5%95%9F%E7%9A%84%E7%B5%90%E6%9E%9C.png)
+
+## Reference
+
+- https://ithelp.ithome.com.tw/articles/10214500
+- https://matthung0807.blogspot.com/2018/03/springbootweb.html
