@@ -23,30 +23,30 @@
     - Eclipse: [下載連結](https://www.eclipse.org/downloads/packages/)
     
 ## Hello World
-    - 新增專案: File > New > Java Project
-    - 輸入 Project Name > Finish
-    - 專案底下有兩個資料夾
-        - JRE System Library: 引用的 library
-        - src: source file 存放位置
-    - 新增類別: 專案名稱右鍵 > New > Class
-    - 在 New Java Class 視窗中
-        - Package: 封裝的名稱
-        - Name: 類別的名稱
-        - 點選 public static void main
-        - Finish
-        ![Eclipse 建立類別](doc/Eclipse%20%E5%BB%BA%E7%AB%8B%E9%A1%9E%E5%88%A5.png)
-    - 增修程式碼:
-        ```java
-        package package01;
+- 新增專案: File > New > Java Project
+- 輸入 Project Name > Finish
+- 專案底下有兩個資料夾
+    - JRE System Library: 引用的 library
+    - src: source file 存放位置
+- 新增類別: 專案名稱右鍵 > New > Class
+- 在 New Java Class 視窗中
+    - Package: 封裝的名稱
+    - Name: 類別的名稱
+    - 點選 public static void main
+    - Finish
+    ![Eclipse 建立類別](doc/Eclipse%20%E5%BB%BA%E7%AB%8B%E9%A1%9E%E5%88%A5.png)
+- 增修程式碼:
+    ```java
+    package package01;
 
-        public class class01 {
+    public class class01 {
 
-            public static void main(String[] args) {
-                // TODO Auto-generated method stub
-                System.out.println("Hello World! 回顧如何使用 Eclipse 寫 Java");
-            }
-
+        public static void main(String[] args) {
+            // TODO Auto-generated method stub
+            System.out.println("Hello World! 回顧如何使用 Eclipse 寫 Java");
         }
-        ```
-    - 執行: 點選上方 Run 圖示 > Run As > Java Application
-        
+
+    }
+    ```
+- 執行: 點選上方 Run 圖示 > Run As > Java Application
+    
